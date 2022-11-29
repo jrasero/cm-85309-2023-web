@@ -4,7 +4,9 @@ title: Materials
 permalink: /materials/
 ---
 
-# {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+<!--- 
+{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+-->
 
 The course will consist of slides, tutorials, assignments and some curated material that will always be available. As a consequence, there is NO required textbook for this course. Nevertheless, most of the material will be based on the following books, some of which can be freely downloaded:
 
