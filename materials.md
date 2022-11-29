@@ -10,11 +10,11 @@ permalink: /materials/
 
 The course will consist of slides, tutorials, assignments and some curated material that will always be available. As a consequence, there is NO required textbook for this course. Nevertheless, most of the material will be based on the following books, some of which can be freely downloaded:
 
-* David Diez et al., Introductory Statistics with Randomization and Simulation [link](https://open.umn.edu/opentextbooks/textbooks/549).
-* Danielle Navarro, Learning statistics with R: A tutorial for psychology students and other beginners [link](https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners).
+* David Diez et al., Introductory Statistics with Randomization and Simulation ([link](https://open.umn.edu/opentextbooks/textbooks/549)).
+* Danielle Navarro, Learning statistics with R: A tutorial for psychology students and other beginners ([link](https://open.umn.edu/opentextbooks/textbooks/learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners)).
 * David S. Moore et al., Introduction to the Practice of Statistics.
 * R. Lyman Ott et al., An Introduction to Statistical Methods & Data Analysis.
-* Gareth James et al., An Introduction to Statistical Learning [link](https://www.statlearning.com).
+* Gareth James et al., An Introduction to Statistical Learning ([link](https://www.statlearning.com)).
 
 ## Additional Course Materials
 
