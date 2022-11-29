@@ -10,7 +10,7 @@ title: page.title
   </header>
 
   <div>
-    <p style="font-weight: bold"> <a href="{{ page.attachment }}"> Link </a>
+    <p style="font-weight: bold"> <a href="{{ page.attachment }}"> Link </a> </p>
       
     {% if page.due_event %}
     <span style="font-weight: bold">Due Date: {{ page.due | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
