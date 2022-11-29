@@ -1,3 +1,9 @@
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
+
 # GOALS & OBJECTIVES
 
 Statistics is a mathematical discipline that allows you to know how to best collect, analyze, and draw conclusions from data. A typical research problem can be summarized as follows:
