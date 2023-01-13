@@ -24,6 +24,8 @@
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+            {% elsif n.type == 'tutorial' %}
+                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
