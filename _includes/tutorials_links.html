@@ -1,6 +1,6 @@
 
-    {% if include.tutorial.nblink %}
-    {% for link in include.tutorial.nblink %}
+    {% if include.tutorial.links %}
+    {% for link in include.tutorial.links %}
     [<a title="Download {{ link.name }}" href="
     {% if link.url contains '://' %}
       {{ link.url }} 
