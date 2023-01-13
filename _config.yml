@@ -3,7 +3,7 @@ course_name: Statistical Concepts and Methods for Behavioral and Social Science
 course_description: "Research in the Social Sciences is a project of understanding the ways in which people are similar while grappling with the ways in which they are different. Statistical methods are a powerful tool for managing the tension between the two. This course introduces the statistical methods most commonly used in in the social sciences, as well as their implementation in the python programming language. Topics involve exploratory data analysis, sampling and randomization, hypothesis testing, and power analysis."
 course_semester: "Spring 2023"
 
-baseurl: "/cm-85309-2023" # the subpath of your site, e.g. /blog/
+baseurl: "/cm-85309-2023-web" # the subpath of your site, e.g. /blog/
 url: "http://jrasero.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Carnegie Mellon University"
