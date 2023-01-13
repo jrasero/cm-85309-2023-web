@@ -6,6 +6,4 @@ links:
     - url: https://github.com/jrasero/cm-85309-2023/raw/main/slides/Week-1.pdf
       name: slides
 ---
-[//]: # **Suggested Readings:**
-[//]: #  - [Readings 1](http://example.com)
-[//]: #  - [Readings 2](http://example.com)
+
