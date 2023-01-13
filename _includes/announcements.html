@@ -26,7 +26,7 @@
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% elsif n.type == 'tutorial' %}
                 New tutorial released: {{ n.title }}
-                {% include tutorials_links.html lecture=n %}
+                {% include tutorials_links.html tutorial=n %}
             {% else%}
                 {{ n.description }}
             {% endif %}
