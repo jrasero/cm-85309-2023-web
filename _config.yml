@@ -49,6 +49,11 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "labs"
+      type: "tutorials"
     values:
       layout: "assignment"
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignments"
