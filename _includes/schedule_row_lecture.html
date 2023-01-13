@@ -8,9 +8,5 @@
     </div>
 </div>
 <div class="col col-4 markdown-content" data-label="Course Material">
-    {% for link in include.lecture.links %}
-    {% if link.name == slides %}
-     <a href="{{ link.url }}"> link.name </a>
-    {% endif %}
-    {% endfor %}
+     <a href="{{ include.event.slides_link }}"> Slides </a> 
 </div>
