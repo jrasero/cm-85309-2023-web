@@ -16,9 +16,10 @@ layout: page
     </div>
     {% endif %}
     <div class="content">
-        <span style="font-weight: bold;">{{ lecture.title }}</span><br>
+        <span style="font-weight: bold;">{{ lecture.title }}</span><!--<br>-->
         <strong>
-        {% include lecture_links.html lecture=lecture %}
+            [<a href="{{ lecture.slides_link }}"> Slides </a>]
+        <!-- {% include lecture_links.html lecture=lecture %}-->
         </strong>
 
         {% if lecture.content != '' %}
