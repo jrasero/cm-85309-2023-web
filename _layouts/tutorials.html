@@ -11,7 +11,7 @@ layout: page
 
       {% for link in asg.links %}
             {% if link.name == "JupyterHub" %}
-                  <a title="Access to JupyterHub notebook" href="{{ link.url }}"><i class="fas fa-file-archive"></i></a>
+                  <a title="Access to JupyterHub notebook" href="{{ link.url }}"><i class="fa-brands fa-r-project"></i></a>
             {% else %}
                   &nbsp;  <a title="Download notebook from Github" href="{{ link.url }}"><i class="fa fa-github"></i></a>
             {% endif %}      
