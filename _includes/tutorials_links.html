@@ -1,7 +1,7 @@
 
     {% if include.tutorial.links %}
     {% for link in include.tutorial.links %}
-    [<a title="Download {{ link.name }}" href="
+    [<a title="Go to {{ link.name }}" href="
     {% if link.url contains '://' %}
       {{ link.url }} 
     {% else %}
