@@ -7,7 +7,17 @@
     {{ include.event.title }}
 </div>
 <div class="col col-4" data-label="Course Material">
-    <a href="{{ include.event.nblink }}"> Notebook </a>
+    
+     {% for link in include.event.links %}
+            {% if link.name == "JupyterHub" %}
+                  [<a href="{{ link.url }}">JupyterHub</a>]
+            {% else %}
+                  [<a href="{{ link.url }}">Github</a>]
+            {% endif %}      
+      {% endfor %}
+    
+    <!--<a href="{{ include.event.nblink }}"> Notebook </a>-->
+    
     {% if include.event.solutions %}
     [<a href="{{ include.event.solutions | prepend: site.baseurl}}">Solutions</a>]
     {% endif %}
