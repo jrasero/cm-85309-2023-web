@@ -14,9 +14,9 @@ layout: page
                   <a title="Access to JupyterHub notebook" href="{{ link.url }}"><i class="fa fa-external-link"></i></a>
             {% else %}
                   {% if link.name == "Jupyter-notebook" %}
-                        &nbsp;  <a title="Go to jupyter-notebook" href="{{ link.url }}"><i class="fa fa-github"></i></a>
+                        &nbsp;  <a title="Go to jupyter-notebook on github" href="{{ link.url }}"><i class="fa fa-github"></i></a>
                   {% else %}
-                        &nbsp;  <a title="View Jupyter-notebook on nbviewer" href="{{ link.url }}"><i class="fa-regular fa-eye"></i></a>
+                        &nbsp;  <a title="View jupyter-notebook on nbviewer" href="{{ link.url }}"><i class="fa fa-eye"></i></a>
                   {% endif %} 
             {% endif %}      
       {% endfor %}
