@@ -11,12 +11,12 @@
      {% for link in include.event.links %}
             {% if link.name == "JupyterHub" %}
                   [<a href="{{ link.url }}">JupyterHub</a>]
-            {% endif %}
-            {% if link.name == "Jupyter-notebook" %}
-                  [<a href="{{ link.url }}">Jupyter-notebook</a>]
-            {% endif %}
-            {% if link.name == "Nbviewer" %}
+            {% else %}
+                {% if link.name == "Jupyter-notebook" %}
+                    [<a href="{{ link.url }}">Jupyter-notebook</a>]
+                {% else %}
                   [<a href="{{ link.url }}">Nbviewer</a>]
+                {% endif %}
             {% endif %}
     {% endfor %}
     
