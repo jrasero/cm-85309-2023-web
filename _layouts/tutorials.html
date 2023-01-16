@@ -13,13 +13,13 @@ layout: page
             {% if link.name == "JupyterHub" %}
                   <a title="Access to JupyterHub notebook" href="{{ link.url }}"><i class="fa fa-external-link"></i></a>
             {% else %}
-                  &nbsp;  <a title="Download notebook from Github" href="{{ link.url }}"><i class="fa fa-github"></i></a>
+                  {% if link.name == "Jupyter-notebook" %}
+                        &nbsp;  <a title="Go to jupyter-notebook" href="{{ link.url }}"><i class="fa fa-github"></i></a>
+                  {% else %}
+                        &nbsp;  <a title="View Jupyter-notebook on nbviewer" href="{{ link.url }}"><i class="fa-regular fa-eye"></i></a>
+                  {% endif %} 
             {% endif %}      
       {% endfor %}
-      
-<!--{% if asg.nblink %}
-&nbsp; <a title="Access to JupyterHub notebook" href="{{ asg.nblink }}"><i class="fas fa-file-archive"></i></a>
-{% endif %}-->
 </strong> 
       </li>
 {% endfor %}
