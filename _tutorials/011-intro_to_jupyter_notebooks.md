@@ -8,7 +8,7 @@ links:
       name: JupyterHub
     - url: https://raw.githubusercontent.com/jrasero/cm-85309-2023/main/tutorials/week-1/011-intro_to_jupyter_notebooks.ipynb
       name: Jupyter-notebook
-    - url: https://nbviewer.org/github/jrasero/cm-85309-2023/blob/d16062c1a97ac7e578545ddeff7e4a070bbbe974/tutorials/week-1/011-intro_to_jupyter_notebooks.ipynb
+    - url: https://nbviewer.org/github/jrasero/cm-85309-2023/blob/main/tutorials/week-1/011-intro_to_jupyter_notebooks.ipynb
       name: Nbviewer
       
 ---
