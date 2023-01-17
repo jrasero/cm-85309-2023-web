@@ -20,6 +20,7 @@ The course will consist of slides, tutorials, assignments and some curated mater
 
 Here are some cheat sheets that might be helpful:
 
+* [Jupyter Notebooks](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 * [Base R](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 * [Data visualization with ggplot2](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 * [Data import](https://posit.co/wp-content/uploads/2022/10/data-import.pdf)
