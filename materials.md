@@ -28,4 +28,4 @@ Here are some cheat sheets that might be helpful:
 
 ## How-to video demonstrations
 
-* [Submit assignements](https://youtu.be/A2BQABX83YE)
+* [Submit assignments](https://youtu.be/A2BQABX83YE)
