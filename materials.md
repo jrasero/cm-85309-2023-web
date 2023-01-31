@@ -25,3 +25,7 @@ Here are some cheat sheets that might be helpful:
 * [Data visualization with ggplot2](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 * [Data import](https://posit.co/wp-content/uploads/2022/10/data-import.pdf)
 * [Data tyding](https://posit.co/wp-content/uploads/2022/10/tidyr.pdf)
+
+## How-to video demonstrations
+
+* [Submit assignements](https://youtu.be/A2BQABX83YE)
