@@ -18,7 +18,7 @@ This assignment will test your knowledge of R and ggplot for visualization.
 
 As a reminder, in order to be able to work on the assignment and submit it, you will need to do the following steps:
 
-- Log in https://bunge.psy.cmu.edu with your Andrew ID as the username, and the password that you guys chose the first day.
+- Log in on the [server](https://bunge.psy.cmu.edu) with your Andrew ID as the username, and the password that you guys chose the first day.
 - Go to the assignments tab.
 - Press the "fetch" button.
 - Now your assignment has been downloaded. Click on it and complete it.
