@@ -1,6 +1,6 @@
 ---
 type: due
-date: 2023-03-13T23:59:597
+date: 2023-03-13T23:59:59
 description: Assignments phase 2 (3, 4 & 5) due
 
 # optional
