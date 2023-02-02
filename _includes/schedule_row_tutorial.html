@@ -14,9 +14,10 @@
             {% else %}
                 {% if link.name == "Jupyter-notebook" %}
                     [<a href="{{ link.url }}">Jupyter-notebook</a>]
-                {% else %}
+               {% endif %}
+               {% if link.name == "Nbviewer" %}
                   [<a href="{{ link.url }}">Nbviewer</a>]
-                {% endif %}
+               {% endif %}
             {% endif %}
     {% endfor %}
     
