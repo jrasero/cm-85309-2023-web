@@ -12,13 +12,17 @@ layout: page
       {% for link in asg.links %}
             {% if link.name == "JupyterHub" %}
                   <a title="Access to JupyterHub notebook" href="{{ link.url }}"><i class="fa fa-external-link"></i></a>
-            {% else %}
-                  {% if link.name == "Jupyter-notebook" %}
-                        &nbsp;  <a title="Go to jupyter-notebook on github" href="{{ link.url }}"><i class="fa fa-github"></i></a>
-                  {% else %}
-                        &nbsp;  <a title="View jupyter-notebook on nbviewer" href="{{ link.url }}"><i class="fa fa-eye"></i></a>
-                  {% endif %} 
-            {% endif %}      
+            {% endif %}
+            {% if link.name == "Jupyter-notebook" %}
+                  &nbsp;  <a title="Go to jupyter-notebook on github" href="{{ link.url }}"><i class="fa fa-github"></i></a>
+            {% endif %} 
+            {% if link.name == "Nbviewer" %}
+                  &nbsp;  <a title="View jupyter-notebook on nbviewer" href="{{ link.url }}"><i class="fa fa-eye"></i></a>
+            {% endif %} 
+            {% if link.name == "Sols" %}
+                  &nbsp;  <a title="Access to solutions on JupyterHub notebook" href="{{ link.url }}"><i class="fa fa-external-link"></i></a>
+            {% endif %} 
+            
       {% endfor %}
 </strong> 
       </li>
