@@ -1,6 +1,7 @@
 ---
 type: exam
-date: 2023-04-27
+date: 2023-04-27T09:30 (deadline +24h)
+
 description: Second exam
 
 # optional
