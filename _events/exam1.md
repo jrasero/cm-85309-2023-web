@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2023-03-02T09:30 (deadline: +24h)
+date: 2023-03-02T09:30 (deadline +24h)
 description: First exam
 
 # optional
