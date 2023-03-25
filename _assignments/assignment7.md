@@ -14,7 +14,7 @@ due_event:
 ---
 <!-- Other additional contents using markdown -->
 
-This assignment covers the topics from week 8, which involves the use of statistical tools with two variables (categorical vs categorical and continuous vs continuous).
+This assignment covers the topics from week 8, which involves the use of statistical tools with two variables (categorical vs categorical; continuous vs continuous).
 
 The exercises may be challenging, but don't despair. Try to fill in the cells to the best of your ability. Attempts and mistakes also count towards points!
 
