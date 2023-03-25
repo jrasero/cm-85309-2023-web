@@ -2,7 +2,7 @@
 type: tutorial
 title: '082-Tests involving two categorical variables'
 date: 2023-03-23
-hide_from_announcments: false
+hide_from_announcments: true
 nblink: https://bunge.psy.cmu.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjrasero%2Fcm-85309-2023&branch=main&urlpath=tree%2Fcm-85309-2023%2Ftutorials%2Fweek-8%2F082-Tests_two_categorical_variables.ipynb
 links:
     - url: https://bunge.psy.cmu.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjrasero%2Fcm-85309-2023&branch=main&urlpath=tree%2Fcm-85309-2023%2Ftutorials%2Fweek-8%2F082-Tests_two_categorical_variables.ipynb
