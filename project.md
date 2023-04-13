@@ -5,6 +5,8 @@ permalink: /project/
 ---
 -->
 
+# LIST OF PROJECTS
+
 You can pick one of the following projects (Click in each of the links below for details):
 
 [Project 1: Brain morphology and cognitive function and aging](_project/project1.md)
