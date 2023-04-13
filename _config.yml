@@ -42,7 +42,7 @@ collections:
         output: true
     assignments:
         output: true
-    projects:
+    project:
         output: false
     announcements:
         output: false
@@ -61,6 +61,6 @@ defaults:
       layout: "assignments"
   - scope:
       path: ""
-      type: "projects"
+      type: "project"
     values:
-      layout: "projects"
+      layout: "project"
