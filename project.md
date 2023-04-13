@@ -1,9 +1,9 @@
-<!---
+---
 layout: project
 title: Project
 permalink: /project/
 ---
--->
+
 
 # LIST OF PROJECTS
 
