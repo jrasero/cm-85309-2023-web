@@ -1,7 +1,7 @@
 ---
 type: project
 date: 2023-04-17
-title: Brain morphology and cognitive function and aging 
+title: Body composition and skeletal structure in physically active individuals
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
