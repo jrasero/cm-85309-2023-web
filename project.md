@@ -1,7 +1,7 @@
 ---
-layout: projects
+layout: project
 title: Project
-permalink: /projects/
+permalink: /project/
 ---
 
 # HONOR CODE
