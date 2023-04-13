@@ -10,7 +10,7 @@ hide_from_announcments: true
 due_event: 
     type: due
     date: 2023-05-01T00:00:00
-    description: 'Assignment #1 due'
+    description: 'Project due'
 ---
 <!-- Other additional contents using markdown -->
 
