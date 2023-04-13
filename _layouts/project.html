@@ -3,7 +3,7 @@ layout: page
 ---
 
 <ul id="archive">
-{% for project in site.projects %}
+{% for project in site.project %}
       <li class="archiveposturl" style="background: transparent">
         <span><a href="{{ project.url | prepend: site.baseurl}}">{{ project.title }}</a></span>
       </li>
