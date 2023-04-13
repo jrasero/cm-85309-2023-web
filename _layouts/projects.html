@@ -3,9 +3,10 @@ layout: page
 ---
 
 {{ content }}
-
 <ul id="archive">
 {% for project in site.projects %}
-
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ project.url | prepend: site.baseurl}}">{{ project.title }}</a></span>
+      </li>
 {% endfor %}
 </ul>
