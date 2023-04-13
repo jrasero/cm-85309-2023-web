@@ -42,6 +42,8 @@ collections:
         output: true
     assignments:
         output: true
+    projects:
+        output: false
     announcements:
         output: false
 
