@@ -43,7 +43,7 @@ collections:
     assignments:
         output: true
     project:
-        output: false
+        output: true
     announcements:
         output: false
 
