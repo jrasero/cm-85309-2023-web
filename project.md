@@ -5,14 +5,6 @@ permalink: /project/
 ---
 
 
-# LIST OF PROJECTS
-
-You can pick one of the following projects (Click in each of the links below for details):
-
-[Project 1: Brain morphology and cognitive function and aging](_project/project1.md)
-
-[Project 2: Body composition and skeletal structure in physically active individuals](_project/project2.md)
-
 # HONOR CODE
 
 You may not discuss this project in any way with anyone besides the professor and TA. Failure to abide by this policy will result in a grade equal to 0.
