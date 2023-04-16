@@ -1,21 +1,14 @@
 ---
-layout: page
+layout: default
 ---
+<div class="post">
 
-You can pick one of the following projects (Click in each of the links below for details):
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
 
-<br>
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-<a href="https://jrasero.github.io/cm-85309-2023-web/project/section1.html">Section 1</a>
-
-
-<!--<ul id="archive">
-{% for project in site.project %}
-         
-    <li class="archiveposturl" style="background: transparent">
-        <span><a href="{{ project.url | prepend: site.baseurl}}">{{ project.title }}</a></span>
-      </li>
-{% endfor %}
-</ul>-->
-
-{{ content }}
+</div>
