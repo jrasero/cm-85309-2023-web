@@ -1,7 +1,7 @@
 ---
 type: project
 date: 2023-04-17
-title: Body composition and skeletal structure in physically active individuals
+title: Project 2. Body composition and skeletal structure in physically active individuals
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
@@ -14,14 +14,12 @@ due_event:
 ---
 <!-- Other additional contents using markdown -->
 
-This assignment will test your knowledge of R and ggplot for visualization.
+Anthropometric measurements, which involve the assessment of the human body dimensions, are a valuable tool for studying body composition, body build, and physical performance, as well as their relationship with physical health outcomes. These measurements provide important information on various aspects of human biology, including growth, development, and aging. By analyzing these measurements, researchers can better understand the complex relationships between body dimensions, body composition, and various health outcomes, such as cardiovascular disease, diabetes, and osteoporosis. Anthropometric measurements also have practical applications in fields such as sports medicine and ergonomics, where they are used to design equipment and environments that optimize human performance and reduce the risk of injury.
 
-As a reminder, in order to be able to work on the assignment and submit it, you will need to do the following steps:
+In this project, you will make use of a dataset that was collected as part of a study to investigate the correspondence between body build, weight, and girths in a group of physically active young men and women, most of whom were within the normal weight range. Skeletal width and depth measurements of the trunk and limbs at nine well-defined body sites were used to characterize body build. Trunk and limb girths were measured at twelve well-defined sites to estimate individual fatness and muscularity.
 
-- Log in on the [server](https://bunge.psy.cmu.edu) with your Andrew ID as the username, and the password that you guys chose the first day.
-- Go to the assignments tab.
-- Press the "fetch" button.
-- Now your assignment has been downloaded. Click on it and complete it.
-- After its completion, go back to the Downloaded assignments and press "Submit".
+By analyzing this dataset, you can gain insights into how body composition and skeletal structure vary with age, weight, height, and gender in physically active individuals. Additionally, this information can be used to inform training and exercise programs, as well as injury prevention strategies for athletes.
 
-In case of doubt on how to perform these steps, I recommend visiting the menu [materials](https://jrasero.github.io/cm-85309-2023-web/materials) in this  webpage, where you'll find a short video demonstration on how to fetch, download and submit assignments.
+You will have the opportunity to conduct your own investigation based on this dataset, possibly answering questions that you find compelling about the complex relationships between body measurements and physical health in physically active individuals. Any question that you can pose as a statistical inference is fair.
+
+As part of this project, you will complete a descriptive and inferential statistical analysis, as well as a regression modelling. By applying these methods to the available dataset, you can gain insights into the complex relationship between body composition, body build, and physical performance in physically active individuals, and contribute to ongoing efforts to improve athletic performance and prevent injuries.
