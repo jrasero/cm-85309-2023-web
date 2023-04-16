@@ -60,3 +60,6 @@ $on-laptop:        1200px;
 	    "fancy-image"
 ;
 
+div[id^="content"] {
+  display: none;
+}
