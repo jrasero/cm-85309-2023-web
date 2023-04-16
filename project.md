@@ -1,17 +1,16 @@
 ---
 layout: projects
-title: Project
 permalink: /project/
 ---
+## SUBMISSION
 
-
-# HONOR CODE
+## HONOR CODE
 
 You may not discuss this project in any way with anyone besides the professor and TA. Failure to abide by this policy will result in a grade equal to 0.
 
 You can still of course ask general coding questions either on Piazza, via email or during office hours. But please don’t post a large block of code and then ask “why doesn’t this work?”
 
-# TIPS
+## TIPS
 
 The project is an opportunity to apply what you guys have learned about descriptive and inferential statistics, regression modelling, and hypothesis testing.
 
