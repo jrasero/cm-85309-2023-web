@@ -10,7 +10,7 @@ hide_time: true
 
 # optional
 # set it to true if you don't want this event appear to in the announcements section
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
 
