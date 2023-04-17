@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: classwork
-date: 2022-04-27
+date: 2023-04-27
 description: Classwork for the final project
 
 # optional
@@ -13,5 +13,4 @@ hide_time: true
 hide_from_announcments: false
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
-## Hello
-#this is a custom event with `code` 
+
