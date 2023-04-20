@@ -9,6 +9,6 @@ links:
       name: JupyterHub
     - url: https://github.com/jrasero/cm-85309-2023/blob/main/tutorials/week-13/13-nonparametric_testing.ipynb
       name: Jupyter-notebook
-    - url: https://nbviewer.org/github/jrasero/cm-85309-2023/blob/main/tutorials/week-13/13-nonparametric_testing.ipynb
+    - url: https://nbviewer.org/github/jrasero/cm-85309-2023/blob/ce6aeeae700396f468366e8526c58e1dda487878/tutorials/week-13/13-nonparametric_testing.ipynb
       name: Nbviewer
 ---
