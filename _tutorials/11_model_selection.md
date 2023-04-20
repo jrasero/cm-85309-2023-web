@@ -11,6 +11,6 @@ links:
       name: Jupyter-notebook
     - url: https://nbviewer.org/github/jrasero/cm-85309-2023/blob/main/tutorials/week-11/11-Model_selection.ipynb
       name: Nbviewer
-    - urls: https://bunge.psy.cmu.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjrasero%2Fcm-85309-2023&branch=main&urlpath=tree%2Fcm-85309-2023%2Ftutorials%2Fweek-11%2F11-Model_selection_w_sols.ipynb
+    - url: https://bunge.psy.cmu.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjrasero%2Fcm-85309-2023&branch=main&urlpath=tree%2Fcm-85309-2023%2Ftutorials%2Fweek-11%2F11-Model_selection_w_sols.ipynb
       name: Sols
 ---
